@@ -33,7 +33,7 @@ def some_puppies(int, max)
   end
 end
 
-puts some_puppies(2, 1)
+puts some_puppies(20, 1)
 
 
 # BONUS
